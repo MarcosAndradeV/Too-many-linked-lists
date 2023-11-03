@@ -1,0 +1,1 @@
+/home/marcos/Documentos/learning/rust/too-many-linked-lists/lists/target/debug/liblists.rlib: /home/marcos/Documentos/learning/rust/too-many-linked-lists/lists/src/fist.rs /home/marcos/Documentos/learning/rust/too-many-linked-lists/lists/src/lib.rs
